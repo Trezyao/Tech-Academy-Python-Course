@@ -1,4 +1,5 @@
 # 🐍 Tech Academy: Full Python Course for Beginners
+https://techacademy-python.netlify.app/
 
 Welcome to **Tech Academy** — a bold and empowering platform built to teach Python from absolute beginner level to mastery.
 
@@ -81,6 +82,7 @@ To access the full course:
 🚀 Tech Enthusiast | Python Developer | Future World-Changer  
 📧 [adesuwaozem2006@gmail.com](mailto:adesuwaozem2006@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/treasure-ozemoya-630448296)
+https://techacademy-python.netlify.app/
 
 ---
 
