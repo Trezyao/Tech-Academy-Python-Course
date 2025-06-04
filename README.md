@@ -1,5 +1,6 @@
 # 🐍 Tech Academy: Full Python Course for Beginners
 https://techacademy-python.netlify.app/
+https://paystack.shop/pay/techpython
 
 Welcome to **Tech Academy** — a bold and empowering platform built to teach Python from absolute beginner level to mastery.
 
